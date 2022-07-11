@@ -1,0 +1,54 @@
+
+{
+  "fullName": "Testing",
+  "Email": "testing@gmail.com",
+  "phoneNo": "9491944829",
+  "Address": "Testing street,Testing World,Hyderabad,500001,Telangana"
+}
+
+
+{
+  "fullName": "Testing-1",
+  "Email": "testing-test1@gmail.com",
+  "phoneNo": "9491944828",
+  "Address": "Testing street-2,Testing World,Hyderabad,500002,Telangana"
+}
+
+
+{
+  "fullName": "Testing-2",
+  "Email": "testing-test2@gmail.com",
+  "phoneNo": "9491944827",
+  "Address": "Testing street-3,Testing World,Hyderabad,500003,Telangana"
+}
+
+{
+  "id": "c14e78af-17e1-4801-95e5-f8551d8a257b",
+  "fullName": "Testing",
+  "email": "testing@gmail.com",
+  "phoneNo": 9491944829,
+  "address": "Testing street,Testing World,Hyderabad,500001,Telangana"
+}
+
+
+{
+  "id": "9a22763e-9efe-4599-ada5-6f0c86d293d3",
+  "fullName": "Testing-test",
+  "email": "testing1@gmail.com",
+  "phoneNo": 9491944828,
+  "address": "Testing street,Testing World,Hyderabad,500002,Telangana"
+}
+
+18EA2F51-5DFB-41CD-96CF-7B7DF78D6BE7
+
+0EABC0D4-1319-4405-A166-2A775297EFF8
+
+"ConnectionStrings":
+{
+  "ContactsApiConnectionString": "Server=BMH2-C-000G8;Database=ContactsDb;Trusted_Connection=true"
+}
+
+Server : BMH2-C-000G8
+
+Add-Migration "Intial Migration"
+Update-Database
